@@ -68,4 +68,7 @@ for result in search_results:
 ```
 ### Output:
 
+![image](https://github.com/Sharmilasha/WDM_EXP6/assets/94506182/bd7a4c54-9c76-450a-9756-11e091c3b62d)
+
 ### Result:
+Thus, the implementation of Information Retrieval Using Vector Space Model in Python is executed successfully.
